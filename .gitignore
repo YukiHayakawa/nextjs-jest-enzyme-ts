@@ -1,0 +1,6 @@
+# node
+node_modules
+.next
+.jest
+.DS_Store
+yarn-error.log
